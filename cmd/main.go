@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 
 	"github.com/shelllbyyyyy/belajar-api-go/apps/auth"
-	"github.com/shelllbyyyyy/belajar-api-go/internal/database"
+	"github.com/shelllbyyyyy/belajar-api-go/external/database"
 	"github.com/shelllbyyyyy/belajar-api-go/internal/environtment"
 
 	"github.com/gofiber/fiber/v2"
